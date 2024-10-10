@@ -1,4 +1,5 @@
 Boston House Price Prediction
+
 In this project, I developed a predictive model to estimate house prices in Boston using data from the Boston Housing Dataset. The goal was to analyze the relationships between various housing features and predict the median house prices (MEDV).
 
 Steps Involved:
