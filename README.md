@@ -19,4 +19,4 @@ The dataset was split into training and testing sets (70% training, 30% testing)
 Model Evaluation: The performance of the models was measured on both the training and testing datasets. The Random Forest model provided the highest R-squared score, indicating better predictive accuracy compared to Linear Regression and Decision Tree Regression.
 
 Conclusion:
-Through this project, I gained valuable insights into the factors affecting house prices in Boston. Random Forest Regression proved to be the most effective model for this prediction task, delivering the highest accuracy. This project showcases how data analysis and machine learning techniques can be leveraged to predict housing prices and guide real estate decision-making.
+Through this project, I gained valuable insights into the factors affecting house prices in Boston. Linear Regression proved to be the most effective model for this prediction task, delivering the highest accuracy. This project showcases how data analysis and machine learning techniques can be leveraged to predict housing prices and guide real estate decision-making.
